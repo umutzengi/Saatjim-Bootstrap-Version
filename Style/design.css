@@ -1,0 +1,58 @@
+body {
+    background-color: #d4f0f8;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+.company-name {
+    
+    text-align: center;
+    font-size: 60px; color:#fd5d5d
+}
+
+.header-1 {
+    
+    text-align: center;
+    font-size: 52px; color:#ff8080
+}
+
+.links {
+    
+    text-align: center;
+    font-size: 35px; color:#fff7bc
+}
+
+.product-name {
+    
+    text-align: center;
+    font-size: 25px;
+}
+
+article {
+    
+    text-align: center;
+    font-size: 25px;
+    list-style-position: inside;
+}
+
+#liste {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 36px;
+    ;
+    margin:75px auto;
+}
+
+#liste img {
+    width: 500px;
+}
+
+.who-are-we {
+    text-align: left;
+    font-size: 25px
+}
+
+.pic-size {
+    width:275px;
+    height:275px;
+}
